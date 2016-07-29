@@ -35,12 +35,6 @@
 /Magick++/tests/readWriteImages
 /Magick++/tests/testmagick_anim_out*
 
-/MagickCore/MagickCore-config
-/MagickCore/magick-baseconfig.h
-/MagickCore/version.h
-
-/MagickWand/MagickWand-config
-
 /PerlMagick/*.a
 /PerlMagick/**/*.bs
 /PerlMagick/**/*.c
