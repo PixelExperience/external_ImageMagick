@@ -46,7 +46,8 @@ LOCAL_C_INCLUDES += $(LOCAL_PATH)/.. \
 
 LOCAL_CFLAGS += -DHAVE_CONFIG_H \
     -Wall -Werror \
-    -Wno-deprecated-register
+    -Wno-deprecated-register \
+    -Wno-unused-private-field
 
 LOCAL_CPPFLAGS += -fexceptions
 
